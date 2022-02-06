@@ -1,0 +1,2 @@
+To start this service use the following command:
+java -jar <PATH_TO_PROJECT>/target/Parser-0.0.1-SNAPSHOT.jar <PATH_TO_PROJECT>/Parser/files/Test.json <PATH_TO_PROJECT>/Parser/files/Test.csv <PATH_TO_PROJECT>/Parser/files/Test2.csv <PATH_TO_PROJECT>/Parser/files/Test2.json
